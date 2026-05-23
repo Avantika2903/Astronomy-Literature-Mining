@@ -10,26 +10,43 @@ explore semantic relationships between papers,
 and analyze latent thematic structure in astronomy literature.
 
 🚀 Features
+
 📄 Extracts astronomy papers from arXiv metadata
+
 🔍 TF-IDF based scientific paper retrieval
+
 🧠 Cosine similarity ranking between research papers
+
 🌌 Topic exploration across astronomy subfields
+
 📊 Paper clustering and thematic grouping
+
 📈 Embedding visualization using dimensionality reduction
+
 🔬 Foundation for future semantic search and representation learning research
 
 🛠️ Tech Stack
+
 Python
+
 NumPy
+
 Pandas
+
 Scikit-learn
+
 Matplotlib
+
 NLP preprocessing tools
-(Optional) Sentence Transformers / HuggingFace embeddings
+
+Sentence Transformers / HuggingFace embeddings
 
 📊 Current Pipeline
+
 Astronomy Literature Semantic Retrieval
+
 Collect astronomy papers
+
 Preprocess abstracts
 Generate TF-IDF baseline vectors
 Generate transformer embeddings

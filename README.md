@@ -53,3 +53,13 @@ Generate transformer embeddings
 Compute cosine similarity
 Compare keyword vs semantic retrieval
 Visualize embedding clusters
+
+Tf-IDF MATRIX
+
+<img width="1221" height="212" alt="image" src="https://github.com/user-attachments/assets/98ebb950-d932-4e19-9c45-42e6a98521e5" />
+
+
+
+Cosine Similarity Based Ranking
+
+<img width="1355" height="339" alt="image" src="https://github.com/user-attachments/assets/485aa19a-4f3e-455e-9ec0-44bebe0bf6df" />

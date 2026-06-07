@@ -63,3 +63,6 @@ Tf-IDF MATRIX
 Cosine Similarity Based Ranking
 
 <img width="1355" height="339" alt="image" src="https://github.com/user-attachments/assets/485aa19a-4f3e-455e-9ec0-44bebe0bf6df" />
+
+<img width="1284" height="311" alt="image" src="https://github.com/user-attachments/assets/1dcd4878-b7a0-4e26-96ce-f4e806d825b5" />
+
